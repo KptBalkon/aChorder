@@ -1,0 +1,11 @@
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\bin\Debug\netcoreapp2.0\aChorder.deps.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\bin\Debug\netcoreapp2.0\aChorder.runtimeconfig.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\bin\Debug\netcoreapp2.0\aChorder.runtimeconfig.dev.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\bin\Debug\netcoreapp2.0\aChorder.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\bin\Debug\netcoreapp2.0\aChorder.pdb
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.csprojResolveAssemblyReference.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.csproj.CoreCompileInputs.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.AssemblyInfoInputs.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.AssemblyInfo.cs
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorder\obj\Debug\netcoreapp2.0\aChorder.pdb

@@ -1,0 +1,16 @@
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorderTests.deps.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorderTests.runtimeconfig.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorderTests.runtimeconfig.dev.json
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorderTests.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorderTests.pdb
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorder.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\bin\Debug\netcoreapp2.0\aChorder.pdb
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.csprojResolveAssemblyReference.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.csproj.CoreCompileInputs.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.AssemblyInfoInputs.cache
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.AssemblyInfo.cs
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.dll
+C:\Users\KptBalkon\Desktop\Projekty\aChorder\aChorder\aChorderTests\obj\Debug\netcoreapp2.0\aChorderTests.pdb

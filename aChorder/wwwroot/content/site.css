@@ -1,0 +1,23 @@
+﻿.navbar {
+    margin-bottom: 20px;
+}
+
+.form-control-sm {
+    margin-bottom: 20px;
+}
+
+.row {
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+#PasteLink[type=text] {
+    width: 130px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+    /* When the input field gets focus, change its width to 100% */
+    #PasteLink[type=text]:focus {
+        width: 30%;
+    }

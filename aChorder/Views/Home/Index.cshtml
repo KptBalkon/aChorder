@@ -1,0 +1,37 @@
+﻿@model aChorder.ViewModels.HomeIndexViewModel
+
+
+<div>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            aChorder
+        </a>
+        <div><a class="btn btn-success" style="color: white;font-weight: bold;" onclick="document.getElementById('submit-song').click()">Zapisz do PDF</a></div>
+        <input id="PasteLink" type="text" name="search" placeholder="Wklej link...">
+    </nav>
+</div>
+
+<form method="post">
+    <div class="row">
+        <div class="col-md-4">
+            <input asp-for="song.Title" placeholder="Tytuł"/>
+            <span asp-validation-for="song.Title"></span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <input asp-for="song.Author" placeholder="Autor" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-8">
+            <textarea class="form-control" rows="30" asp-for="song.SongText" placeholder="Tekst Piosenki" id="textbox1"></textarea>
+            <span asp-validation-for="song.SongText"></span>
+            <input type="submit" name="save" value="Save" id="submit-song" style="display: none;"/>
+        </div>
+        <div class="col-md-4">
+            <p>Tu chwyty</p>
+        </div>
+    </div>
+
+</form>

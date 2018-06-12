@@ -1,0 +1,41 @@
+﻿@using aChorder.Models
+@model Song
+
+
+<div>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+            aChorder
+        </a>
+        <div><a class="btn btn-success" asp-controller="Home" asp-action="Convert">Zapisz do PDF</a></div>
+        <input id="PasteLink" type="text" name="search" placeholder="Wklej link...">
+    </nav>
+</div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <input class="form-control form-control-sm" type="text" placeholder="Tytuł">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <input class="form-control form-control-sm" type="text" placeholder="Autor">
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="form-group">
+                <textarea class="form-control" rows="30" runat="server" placeholder="Tekst piosenki"></textarea>
+            </div>
+        </div>
+        <div class="col-md-4">
+            @*@foreach (var chord in w)
+                {
+                    <p>@chord.Name</p>
+                }*@
+        </div>
+
+    </div>

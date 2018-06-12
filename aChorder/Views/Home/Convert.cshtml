@@ -1,0 +1,10 @@
+﻿@model aChorder.ViewModels.HomeIndexViewModel
+
+<h1>@Model.song.Title</h1>
+<h2>@Model.song.Author</h2>
+<p style='white-space:pre-wrap'>@Model.song.SongText</p>
+<p>Detected Chords:</p>
+@foreach(var chord in @Model.detectedChords)
+{
+    <img src=@("~/Chords/" + chord.Replace("#", "%23") + ".png") asp-append-version="true" >
+}

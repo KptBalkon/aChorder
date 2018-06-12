@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aChorder", "aChorder\aChorder.csproj", "{70C804B1-F3F5-4F63-8B7A-E54F05C8419B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aChorderTests", "aChorderTests\aChorderTests.csproj", "{9E80054E-CB2A-498C-A67D-CD4332F500C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C804B1-F3F5-4F63-8B7A-E54F05C8419B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C804B1-F3F5-4F63-8B7A-E54F05C8419B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C804B1-F3F5-4F63-8B7A-E54F05C8419B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C804B1-F3F5-4F63-8B7A-E54F05C8419B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E80054E-CB2A-498C-A67D-CD4332F500C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E80054E-CB2A-498C-A67D-CD4332F500C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E80054E-CB2A-498C-A67D-CD4332F500C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E80054E-CB2A-498C-A67D-CD4332F500C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE8CD93-E229-4262-B6A2-E58126DC82EE}
+	EndGlobalSection
+EndGlobal
